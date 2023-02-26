@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+
+::selection {
+  color: #fff;
+  background: #B2B2B2;
+}
+
+
+a{
+  color: #3C4048;
+  text-decoration: none;
+}
